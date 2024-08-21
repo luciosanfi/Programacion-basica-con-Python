@@ -1,2 +1,2 @@
-# Programci-n-b-sica-con-Python
+# Programcion basica con python
 Es un repositorio realizado para subir ejercicios básicos realizados en Python
